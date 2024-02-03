@@ -1,0 +1,13 @@
+C:\Users\abd19\source\repos\visual project\bin\Debug\visual project.exe.config
+C:\Users\abd19\source\repos\visual project\bin\Debug\visual project.exe
+C:\Users\abd19\source\repos\visual project\bin\Debug\visual project.pdb
+C:\Users\abd19\source\repos\visual project\obj\Debug\visual project.csproj.AssemblyReference.cache
+C:\Users\abd19\source\repos\visual project\obj\Debug\visual project.csproj.SuggestedBindingRedirects.cache
+C:\Users\abd19\source\repos\visual project\obj\Debug\visual_project.Form1.resources
+C:\Users\abd19\source\repos\visual project\obj\Debug\visual_project.Properties.Resources.resources
+C:\Users\abd19\source\repos\visual project\obj\Debug\visual project.csproj.GenerateResource.cache
+C:\Users\abd19\source\repos\visual project\obj\Debug\visual project.csproj.CoreCompileInputs.cache
+C:\Users\abd19\source\repos\visual project\obj\Debug\visual project.exe
+C:\Users\abd19\source\repos\visual project\obj\Debug\visual project.pdb
+C:\Users\abd19\source\repos\visual project\bin\Debug\System.Data.SQLite.xml
+C:\Users\abd19\source\repos\visual project\obj\Debug\visual project.csproj.CopyComplete
